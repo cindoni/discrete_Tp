@@ -3,9 +3,6 @@ CSE 2300 - Complexity Analysis Project
 Student: Sidney Pham
 Assignment: Comprehensive Timing Experiment
 
-This program runs complete timing experiments for both bubble sort and selection sort
-algorithms on arrays of sizes 500, 2500, and 5000 elements, testing 1000 arrays
-of each size and generating results for analysis.
 """
 
 import random
